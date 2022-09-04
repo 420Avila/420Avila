@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <ul type=”A”>
   <li>Learning CyberSecurity (Pentesting) On HTB(HackTheBox) & THM(TryHackMe)</li>
-  <li>Learn Engineering in Agronomy On Instituto Tecnologico Del Valle de Morelia (ITVM)</li>
+  <li>Learning Engineering in Agronomy On Instituto Tecnologico Del Valle de Morelia (ITVM)</li>
 </ul>
 
 </div>
