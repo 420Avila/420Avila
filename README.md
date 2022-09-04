@@ -29,8 +29,11 @@ Here are some ideas to get you started:
 </div>
 </br>
 <div align ="center">
-- Learning CyberSecurity (Pentesting) On HTB(HackTheBox) & THM(TryHackMe)
-- Learn Engineering in Agronomy On Instituto Tecnologico Del Valle de Morelia (ITVM)
+  <ol type=”A”>
+  <li>Learning CyberSecurity (Pentesting) On HTB(HackTheBox) & THM(TryHackMe)</li>
+  <li>Learn Engineering in Agronomy On Instituto Tecnologico Del Valle de Morelia (ITVM)</li>
+</ol>
+
 </div>
 <hr/>
   <p align ="center">
