@@ -28,11 +28,12 @@ Here are some ideas to get you started:
 <img src="ht_status.png" alt="Hack The Box Profile"></a>
 </div>
 </br>
-
+<div align ="center">
 - Learning CyberSecurity (Pentesting) On HTB(HackTheBox) & THM(TryHackMe)
-<p>
+</div>
+  <p>
   <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
-  <img width="10%" src="https://github.com/420Avila/420Avila/blob/main/Recursos/353176.svg" />
+  <img width="10%" src="https://github.com/420Avila/420Avila/blob/main/Recursos/hola.png" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
