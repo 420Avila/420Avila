@@ -42,4 +42,5 @@ Here are some ideas to get you started:
   <!--
   <img width="15%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg" />
   -->
+  <hr/>
 </p>
