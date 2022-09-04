@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 </div>
 </br>
 <div align ="center">
-  <ol type=”A”>
+
+<ul type=”A”>
   <li>Learning CyberSecurity (Pentesting) On HTB(HackTheBox) & THM(TryHackMe)</li>
   <li>Learn Engineering in Agronomy On Instituto Tecnologico Del Valle de Morelia (ITVM)</li>
-</ol>
+</ul>
 
 </div>
 <hr/>
