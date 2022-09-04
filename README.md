@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <div align ="center">
 - Learning CyberSecurity (Pentesting) On HTB(HackTheBox) & THM(TryHackMe)
 </div>
+
   <p align ="center">
   <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
   <img width="15%" src="https://github.com/420Avila/420Avila/blob/main/Recursos/hola.png" />
