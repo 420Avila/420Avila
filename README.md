@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<body background = GREEN >
 <div align="center">
   <h1> Hello I'm 420avila </h1>
 </div>
@@ -80,3 +80,4 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/420Avila/420Avila/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+</body>
