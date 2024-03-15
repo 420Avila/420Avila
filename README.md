@@ -29,8 +29,11 @@ Here are some ideas to get you started:
 <div align ="center">
 
 <ul type=”A”>
+    <li>Engineering in Agronomy (ITVM)</li>
+</ul>
+
+<ul type=”A”>
   <li>Learning CyberSecurity (Pentesting) On HTB(HackTheBox) & THM(TryHackMe)</li>
-  <li>Learning Engineering in Agronomy On Instituto Tecnologico Del Valle de Morelia (ITVM)</li>
 </ul>
 
 </div>
